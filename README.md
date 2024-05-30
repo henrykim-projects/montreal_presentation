@@ -2,25 +2,15 @@
 
 
 <h2>Description</h2>
-A PowerPoint presentation I made to touch base on logistics and build general interest in the destination. 
+A PowerPoint presentation I made to touch base on logistics and build general interest in the destination. Leading vacation plans resulted in 20% more memorable moments, 15% more scenic photos, and a lot of consumed poutine. 
 <br />
 
-
-<h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
-- <b>Oracle VirtualBox</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b>
-- <b>Server 2019</b>
 
 <h2>The Slides:</h2>
 
 <p align="center">
 Create a Domain Controller VM in Virtual Box: <br/>
-<img src="https://github.com/thethirdbirthday/Active-Directory/blob/2e1a4e95db718910d63a04508dfda34b9c1a4962/ad_1.PNG" height="80%" width="80%" alt="Active Directory Home Lab Steps"/>
+<img src="https://github.com/thethirdbirthday/montreal_presentation/blob/d36810a8316052ae41968348e4194ba611bc1718/images/Montreal_2024.pdf" height="80%" width="80%" alt="Active Directory Home Lab Steps"/>
 <br />
 <br />
 

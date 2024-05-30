@@ -9,8 +9,8 @@ A PowerPoint presentation I made to touch base on logistics and build general in
 <h2>The Slides:</h2>
 
 <p align="center">
-Click below for PDF version of the presentation: <br/>
-<a href="https://github.com/thethirdbirthday/montreal_presentation/blob/d36810a8316052ae41968348e4194ba611bc1718/images/Montreal_2024.pdf">Montreal PDF</a>" 
+PDF ver.: <br/>
+<a href="https://github.com/thethirdbirthday/montreal_presentation/blob/d36810a8316052ae41968348e4194ba611bc1718/images/Montreal_2024.pdf">Montreal PDF</a>
 <br />
 <br />
 

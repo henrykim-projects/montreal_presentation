@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-A PowerPoint presentation I made to touch base on logistics and build general interest in the destination. Leading vacation plans resulted in 20% more memorable moments, 15% more scenic photos, and a lot of consumed poutine. 
+A PowerPoint presentation I made for a personal trip to touch base on logistics and build general interest in the destination. Leading vacation plans resulted in 20% more memorable moments, 15% more scenic photos, and a lot of consumed poutine. 
 <br />
 
 
